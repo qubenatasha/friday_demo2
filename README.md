@@ -1,3 +1,5 @@
+This project is configured with QUBESHIP 
+
 1. Clone Repo  
 2. CD to the repo directory  
 cp .env.sh.template .env.sh  
@@ -23,6 +25,7 @@ python -m qube_cli.src.qube repo create --organization Qubeship --name api_auth 
 ## extra info 
 to run sonar, flake , pylint
 https://github.com/Qubeship/qube_base_python/blob/master/sonar-flake-pylint.md
+
 
 
 
